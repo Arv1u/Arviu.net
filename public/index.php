@@ -6,7 +6,7 @@
         <title>Arviu.net</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="icon" type="image/png" href="assets/images/Ana logo.ico">
+        <link rel="icon" type="image/png" href="assets/images/arviu-logo.ico">
         <link rel="stylesheet" href="assets/css/style.css">
     </head>
     <body class="body">
@@ -19,7 +19,13 @@
             </ul>
         </nav>
         <main class="main"></main>
-        <footer class="footer"></footer>
+        <footer class="footer">
+            <ul>
+                <li><a href="https://github.com/Arv1u"><img src="assets/images/github-logo.png"></a></li>
+                <li><a href="https://www.instagram.com/arv1u/"><img src="assets/images/instagram-logo.png"></a></li>
+                <li><a href="https://x.com/Arv1u_"><img src="assets/images/x-logo.png"></a></li>
+            </ul>
+        </footer>
         <script src="assets/js/script.js" defer></script>
     </body>
 </html>
