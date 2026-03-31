@@ -19,6 +19,7 @@ jobs:
           script: |
             cd /var/www/Arviu.net
             git pull origin main
+            git reset --hard origin/main
 
             sudo systemctl reload nginx
             sudo systemctl restart php8.2-fpm
