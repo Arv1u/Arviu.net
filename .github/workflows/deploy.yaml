@@ -18,7 +18,7 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
             cd /var/www/Arviu.net
-            git pull origin main
+            git fetch origin main
             git reset --hard origin/main
 
             sudo systemctl reload nginx
