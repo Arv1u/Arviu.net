@@ -1,0 +1,143 @@
+:root{
+  --color-bg: #ffffff;
+  --color-text: #222222;
+
+  --color-primary: #2c3e50;
+  --color-secondary: #34495e;
+
+  --color-accent: #3498db;
+  --color-accent-hover: #2980b9;
+
+  --color-navbar-bg: #222222;
+  --color-navbar-text: #ffffff;
+
+  --color-dropdown-bg: #333333;
+
+  --color-header-bg: #f4f4f4;
+
+  --color-footer-bg: #222222;
+  --color-footer-text: #ffffff;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--color-navbar-bg);
+  padding: 10px 20px;
+}
+.navbar ul{
+    border-radius: 5px;
+}
+.logo img {
+  height: 40px;
+  border-radius: 5px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+}
+
+.nav-links li {
+  position: relative;
+}
+
+.nav-links a {
+  color: var(--color-navbar-text);
+  text-decoration: none;
+  padding: 10px 15px;
+  display: block;
+  transition: background 0.2s ease;
+}
+
+.nav-links a:hover {
+  background-color: var(--color-secondary);
+  border-radius: 5px;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: var(--color-dropdown-bg);
+  min-width: 150px;
+}
+
+.dropdown-menu li a {
+  padding: 10px;
+  
+}
+
+.dropdown-menu li{
+    list-style-type: none;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header {
+  background: var(--color-header-bg);
+  text-align: center;
+  padding: 60px 20px;
+}
+section{
+    background-color: var(--color-header-bg);
+
+}
+.header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.main-content {
+  padding: 40px 20px;
+  min-height: 60vh;
+}
+
+.footer {
+  background-color: var(--color-footer-bg);
+  color: var(--color-footer-text);
+  text-align: center;
+  padding: 15px;
+}
+.footer img{
+    width: 40px;
+    height: 40px;
+}
+
+.footer ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.footer li{
+    float: left;
+}
+
+.social-icon{
+    filter: invert(1);
+}
+
+section{
+    align-items: center;
+    background-color: var(--color-header-bg);
+    border-radius: 25px;
+    padding: 25px;
+}
