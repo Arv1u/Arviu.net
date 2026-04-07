@@ -3,20 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Arviu.net</title>
+  <title>Contact</title>
   <link rel="icon" type="image/png" href="assets/images/arviu-logo.ico">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-
   <div id="navbar"></div>
-  <!-- HEADER -->
   <header class="header">
-    <h1>Welcome to Arviu.net</h1>
-    <p></p>
+    <h1>Contact</h1>
   </header>
-
-  <!-- MAIN CONTENT -->
   <main class="main-content">
     <section>
 
