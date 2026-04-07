@@ -10,16 +10,14 @@
 <body>
 
   <div id="navbar"></div>
-  <!-- HEADER -->
   <header class="header">
     <h1>Welcome to Arviu.net</h1>
     <p></p>
   </header>
 
-  <!-- MAIN CONTENT -->
   <main class="main-content">
     <section>
-
+        <p>This shit might be empty now, but just u wait a couple of years...</p>
     </section>
   </main>
   <div id="footer"></div>
