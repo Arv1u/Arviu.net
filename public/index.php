@@ -17,7 +17,9 @@
 
   <main class="main-content">
     <section>
-        <p>This shit might be empty now, but just u wait a couple of years...</p>
+        <p>This shit might be empty now, but just u wait a couple of years...</p><br><br>
+        <h3>The latest and greatest</h3><br>
+        <a href="creating-my-own-website.php">Blogpost 01: Creating my own website</a>
     </section>
   </main>
   <div id="footer"></div>
