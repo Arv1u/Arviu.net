@@ -141,3 +141,7 @@ section{
     border-radius: 25px;
     padding: 25px;
 }
+
+.date{
+  font-weight: lighter;
+}

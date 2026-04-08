@@ -21,6 +21,7 @@
 
     <main class="main-content">
         <section>
+            <p>07/04/2026</p>
             <h2>Welcome to this blog!</h2>
             <p>I want to use this blog as a way to organize and publish private hobby projects in a more structured
                 manner than I usually do or just talk about things I&#39;m currently learning.

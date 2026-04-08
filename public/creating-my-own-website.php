@@ -21,6 +21,7 @@
 
   <main class="main-content">
     <section>
+      <p class="date">08/04/2026</p>
       <h1 id="my-goal">My goal</h1>
       <br>
       <p>Trying to organize my thoughts better, I came up with the idea of creating some kind of knowledge base
