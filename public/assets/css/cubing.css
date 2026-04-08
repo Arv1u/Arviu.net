@@ -1,0 +1,19 @@
+.pr-table{
+    justify-content: center;
+    border-collapse: collapse;
+    width: 50%;
+    
+}
+.pr-table th,td{
+    border: 1px solid;
+    text-align: center;
+}
+.pr-table tr:nth-child(even){
+    background-color: #dddddd;
+}
+.event{
+    font-weight: bold;
+}
+section{
+    align-items: center;
+}
