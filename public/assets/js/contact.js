@@ -1,3 +1,3 @@
-import { buildTemplate } from "/assets/modules/buildTemplate.js";
+import { buildTemplate } from "../modules/buildTemplate.js";
 
 buildTemplate();

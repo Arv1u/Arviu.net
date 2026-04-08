@@ -13,7 +13,7 @@
 
   <div id="navbar"></div>
   <header class="header">
-    <h1>Welcome to Arviu.net</h1>
+    <h1>Speedcubing</h1>
     <p></p>
   </header>
 
