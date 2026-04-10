@@ -30,6 +30,9 @@
 body {
   background-color: var(--color-bg);
   color: var(--color-text);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 .navbar {
@@ -108,6 +111,7 @@ section{
 .main-content {
   padding: 40px 20px;
   min-height: 60vh;
+  flex:1;
 }
 
 .footer {
@@ -115,6 +119,7 @@ section{
   color: var(--color-footer-text);
   text-align: center;
   padding: 15px;
+  position: ;
 }
 .footer img{
     width: 40px;
