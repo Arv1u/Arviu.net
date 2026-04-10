@@ -19,7 +19,7 @@
 
   <main class="main-content">
     <section>
-        <a href="creating-my-own-website.php">01: Creating my own website</a> <br>
+        <a href="creating-my-own-website.php">01: Creating my own website</a> <br><br>
         <a href="this-blog.php">00: This blog</a>
     </section>
   </main>

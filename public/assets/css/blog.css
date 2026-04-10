@@ -1,7 +1,4 @@
-/* Better spacing */
-body {
-  line-height: 1.6;
-}
+
 
 .main-content section {
   max-width: 800px;
@@ -9,31 +6,10 @@ body {
   padding: 20px;
 }
 
-p {
-  margin-bottom: 1.2rem;
-}
 
-/* Headings spacing */
-h1, h2, h3, h4 {
-  margin-top: 2rem;
-  margin-bottom: 0.8rem;
-}
 
-/* Clean list styling (flush bullets) */
-ul {
-  margin: 1rem 0;
-  padding-left: 1.2rem; /* controls bullet alignment */
-}
 
-li {
-  margin-bottom: 0.5rem;
-  line-height: 1.5;
-}
 
-/* Optional: tighter bullet alignment */
-ul {
-  list-style-position: outside;
-}
 img{
     width: 100%;
 }
