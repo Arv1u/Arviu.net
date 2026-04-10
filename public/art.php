@@ -24,7 +24,7 @@
         <section class="gallery">
 
             <div class="art-card">
-                <img src="assets/images/yoda 01.2019.jpg" alt="Artwork 1" class="rotate-90">
+                <img src="assets/images/yoda-01.2019.jpg" alt="Artwork 1" class="rotate-90">
             </div>
         </section>
     </main>
